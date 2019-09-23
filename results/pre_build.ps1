@@ -1,0 +1,5 @@
+$pkg_origin="olivierm"
+$pkg_name="movie-database-example"
+$pkg_version="0.1.0"
+$pkg_release="20190923143749"
+$pkg_ident="olivierm/movie-database-example/0.1.0/20190923143749"
